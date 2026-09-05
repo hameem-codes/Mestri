@@ -205,9 +205,6 @@ pnpm format
 
 **https://mestri.mestri.workers.dev/**
 
-### Repository
-
-**https://github.com/sadiyasyed28/Mestri**
 
 ---
 
